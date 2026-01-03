@@ -27,7 +27,7 @@ L-PBF_SDSS/
 
 
 > Note: Raw EBSD files (`.ang`) are not included here by default (they are often large).  
-> If you add them, place them inside each condition folder or a dedicated `data/` directory.
+
 
 ---
 
