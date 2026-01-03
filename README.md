@@ -17,11 +17,11 @@ L-PBF_SDSS/
 │
 ├─ figures/ # Exported images (auto-generated)
 │ ├─ AS/
-│ ├─ SR400/
-│ ├─ SR450/
-│ ├─ SR500/
-│ ├─ SR550/
-│ └─ SA1100/
+│ ├─ SR400/1h
+│ ├─ SR450/1h
+│ ├─ SR500/1h
+│ ├─ SR550/1h
+│ └─ SA1100/15 minutes
 │
 └─ README.md
 
