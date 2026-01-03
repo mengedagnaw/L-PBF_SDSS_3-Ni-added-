@@ -6,5 +6,22 @@ This repository is organized for **reproducible texture processing**: each sampl
 
 ## Repository structure
 
-
+L-PBF_SDSS/
+├─ MTEX MATLAB scripts/ # MTEX scripts (one per condition)
+│ ├─ AS_hex.m
+│ ├─ SR400_hex.m
+│ ├─ SR450_hex.m
+│ ├─ SR500_hex.m
+│ ├─ SR550_hex.m
+│ └─ SA1100_hex.m
+│
+├─ figures/ # Exported images (auto-generated)
+│ ├─ AS/
+│ ├─ SR400/
+│ ├─ SR450/
+│ ├─ SR500/
+│ ├─ SR550/
+│ └─ SA1100/
+│
+└─ README.md
 
