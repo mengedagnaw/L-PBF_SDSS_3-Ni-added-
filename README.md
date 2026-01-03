@@ -91,15 +91,3 @@ If your maps appear flipped/rotated, adjust:
 
 ---
 
-## Citation / attribution
-
-If you use these scripts or figures in a publication, please cite:
-- **MTEX** (texture analysis toolbox) and
-- this repository (link in your manuscript or supplemental information)
-
----
-
-## License
-
-Choose a license that matches your sharing intent (MIT, BSD-3, or CC-BY for figures).
-If you want, I can generate a `LICENSE` file consistent with your publication + reuse goals.
